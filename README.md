@@ -1,1 +1,3 @@
 # Firefly
+
+Abstract— This paper shows how the metaheuristic Firefly Algorithm (FA) can be enhanced by hybridization with a genetic algorithm to achieve better results for optimization problems. The authors examine which configuration of the hybridized FA performs best during a number of computational tests. The performance of the hybrid FA is compared with that of the regular FA in solving test functions for single-objective optimization problems in two and n-dimensional spaces. The key findings are that more complex optimization problems benefit from the hybrid FA because it outperforms the basic FA. In addition, some useful parameters settings for the suggested algorithm are determined.
